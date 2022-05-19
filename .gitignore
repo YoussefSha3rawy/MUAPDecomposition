@@ -1,0 +1,5 @@
+*
+!*.ipynb
+!*.pdf
+!Data.txt
+!.gitignore
